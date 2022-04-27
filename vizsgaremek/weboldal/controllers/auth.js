@@ -7,7 +7,7 @@ const res = require('express/lib/response');
 
 const transporter = nodemailer.createTransport(sendgridTransport({
   auth: {
-    api_key: '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'
+    api_key: ''
   }
 }))
 
